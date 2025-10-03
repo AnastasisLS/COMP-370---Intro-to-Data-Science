@@ -1,0 +1,23 @@
+# CSV data files
+*.csv
+*.tgz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# OS files
+.DS_Store
+~$*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
